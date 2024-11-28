@@ -1,2 +1,2 @@
 # codebase_of_python
-该文档的代码是笔者初学时根据一些解决日常问题而编写的Python代码。
+
